@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+
+.fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+.menu {
+  text-align: center;
+  color: #fff;
+  height: 50px;
+  line-height: 50px;
+}
+
+.menufirst {
+  background-color: #555;
+}
+
+.menuchange {
+  background-color: red;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+  color: blue;
+}
+
+.blanckspace {
+  height: 100px;
+  background-color: aqua;
+  text-align: center;
+}
